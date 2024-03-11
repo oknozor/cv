@@ -6,7 +6,7 @@ export const experiences: Experience[] = [
 		end: '2024',
 		position: 'Software Engineer',
 		company: 'Qwant',
-		logo: "qwant.jpg",
+		logo: "Qwant",
 		location: "Paris, France",
 		projects: [
 			{
@@ -56,7 +56,7 @@ export const experiences: Experience[] = [
 		end: '2022',
 		position: 'Software Engineer',
 		company: 'Leroy Merlin',
-		logo: "leroy_merlin_logo.jpg",
+		logo: "LM",
 		location: "Lille, France",
 		projects: [
 			{
@@ -71,13 +71,12 @@ export const experiences: Experience[] = [
 			}
 		]
 	},
-
 	{
 		start: '2020',
 		end: '2021',
 		position: 'Software Engineer',
 		company: 'Decathlon',
-		logo: "decathlon_logo.jpg",
+		logo: "Decathlon",
 		location: "Lille, France",
 		projects: [
 			{
@@ -92,13 +91,12 @@ export const experiences: Experience[] = [
 			}
 		]
 	},
-
 	{
 		start: '2017',
 		end: '2019',
 		position: 'Software Engineer',
 		company: 'Ineat Group',
-		logo: "ineat_conseil_logo.jpg",
+		logo: "Ineat",
 		location: "Lille, France",
 		projects: [
 			{
@@ -127,7 +125,7 @@ export const experiences: Experience[] = [
 		end: '2016',
 		position: 'Software Engineer Intern',
 		company: 'Decathlon',
-		logo: "decathlon_logo.jpg",
+		logo: "Decathlon",
 		location: "Lille, France",
 		projects: [
 			{
@@ -193,7 +191,7 @@ export const educations: Education[] = [
 	{
 		start: "2018",
 		end: "2020",
-		logo: "universite_de_lille_logo.jpg",
+		logo: "UniversiteDeLille",
 		cursus: "MASTER Infrastructure Applicative et Génie Logicie",
 		schoolName: "Université de Lille",
 		schoolLink: "https://www.univ-lille.fr/",
@@ -201,7 +199,7 @@ export const educations: Education[] = [
 	{
 		start: "2017",
 		end: "2018",
-		logo: "cnam_logo.jpg",
+		logo: "Cnam",
 		cursus: "License STS - Informatique Générale",
 		schoolName: "Conservatoire National des Arts et Métiers",
 		schoolLink: "https://www.cnam.fr/",
@@ -210,7 +208,7 @@ export const educations: Education[] = [
 		start: "2016",
 		end: "2017",
 		cursus: "Formation -Analyste programmeur",
-		logo: "cnam_logo.jpg",
+		logo: "Cnam",
 		schoolName: "Conservatoire National des Arts et Métiers",
 		schoolLink: "https://www.cnam.fr/",
 	}

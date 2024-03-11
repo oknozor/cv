@@ -1,7 +1,3 @@
-<script lang="ts">
-	export let size: number = 3;
-</script>
-
 <svg
 	class="justify-center items-center w-3"
 	viewBox="0 0 24 24"
