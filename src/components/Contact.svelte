@@ -24,13 +24,13 @@
 			<span class="text-2xl underline">Contact</span>
 		</h2>
 		<div class="flex flex-col gap-2 p-3 bg-slate-100 rounded-xl p-3">
-			<span class="flex flex-row gap-2"><EmailLogo size={5} /> paul.delafosse@protonmail.com </span>
-			<span class="flex flex-row gap-2"><PhoneLogo size={5} /> +33 663481252 </span>
-			<span class="flex flex-row gap-2"><GithubLogo size={5} /> <a href="https://https://github.com/oknozor/"> github.com/oknozor/</a> </span>
-			<span class="flex flex-row gap-2"><LinkedInLogo size={5} /> <a
+			<span class="flex flex-row gap-2"><EmailLogo/> paul.delafosse@protonmail.com </span>
+			<span class="flex flex-row gap-2"><PhoneLogo/> +33 663481252 </span>
+			<span class="flex flex-row gap-2"><GithubLogo/> <a href="https://https://github.com/oknozor/"> github.com/oknozor/</a> </span>
+			<span class="flex flex-row gap-2"><LinkedInLogo/> <a
 				href="https://www.linkedin.com/in/paul-delafosse-614985133/"> linkedin.com/in/paul-delafosse </a> </span>
-			<span class="flex flex-row gap-2"><MastodonLogo size={5} /> <a href="https://fosstodon.org/@okno"> fosstodon.org/@okno </a> </span>
-			<span class="flex flex-row gap-2"><DocIcon size={5} /> <a href="https://oknozor.github.io/blog/"> oknozor.github.io/blog </a></span>
+			<span class="flex flex-row gap-2"><MastodonLogo/> <a href="https://fosstodon.org/@okno"> fosstodon.org/@okno </a> </span>
+			<span class="flex flex-row gap-2"><DocIcon/> <a href="https://oknozor.github.io/blog/"> oknozor.github.io/blog </a></span>
 		</div>
 	</div>
 </div>

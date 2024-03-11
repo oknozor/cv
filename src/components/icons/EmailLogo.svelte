@@ -1,9 +1,5 @@
-<script lang="ts">
-	export let size: number = 3;
-</script>
-
 <svg
-	class="justify-center items-center w-{size}"
+	class="justify-center items-center w-3"
 	viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
 	width="24px" height="24px">
 	<g id="SVGRepo_bgCarrier" stroke-width="0"></g>

@@ -13,9 +13,9 @@
 		<div>
 			<h3 class="font-bold text-lg pb-1">{experience.company}</h3>
 			<div class="flex flex-row gap-5 text-xs text-slate-500 pb-4">
-				<span class="flex flex-row gap-2"><CalendarIcon />{experience.start} - {experience.end}</span>
-				<span class="flex flex-row gap-2"><SuitcaseIcon />{experience.position}</span>
-				<span class="flex flex-row gap-2"><LocationIcon />{experience.location}</span>
+				<span class="flex flex-row gap-2"><CalendarIcon/>{experience.start} - {experience.end}</span>
+				<span class="flex flex-row gap-2"><SuitcaseIcon/>{experience.position}</span>
+				<span class="flex flex-row gap-2"><LocationIcon/>{experience.location}</span>
 			</div>
 		</div>
 	</div>
