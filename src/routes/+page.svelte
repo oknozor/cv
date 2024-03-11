@@ -8,12 +8,12 @@
 </script>
 
 <main>
-	<div class="grid grid-cols-12 gap-4">
-		<div class="bg-slate-50 rounded-xl p-4 col-span-3 mb-3 ml-3 mt-3">
+	<div class="grid md:grid-cols-12 gap-4">
+		<div class="bg-slate-50 rounded-xl p-4 md:col-span-4 lg:col-span-4 md:mb-3 md:ml-3 md:mt-3 sm:m-2">
 			<Contact />
 		</div>
 
-		<div class="col-span-8  mb-3 mr-3 mt-3">
+		<div class="md:col-span-8 lg:col-span-8  md:mb-3 md:mr-3 md:mt-3 sm:m-2">
 			<div class="bg-slate-50 max-w-2xl p-4 rounded-xl mb-4">
 				<h2 class="flex flex-row">
 					<Dot />
