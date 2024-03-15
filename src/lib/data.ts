@@ -181,6 +181,11 @@ export const openSourceProjects: OpenSourceProject[] = [
 		ghNameSpace: 'oknozor/gill'
 	},
 	{
+		name: 'Archunit-rs',
+		description: 'An architecture testing library inspired by Archunit. ',
+		ghNameSpace: 'oknozor/archunit_rs'
+	},
+	{
 		name: 'Musicbrainz Rs',
 		description: 'Rust wrapper around the musicbrainz API ',
 		ghNameSpace: 'oknozor/musicbrainz_rs'
