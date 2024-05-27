@@ -19,7 +19,7 @@ export const experiences: Experience[] = [
 			},
 			{
 				name: 'GeocoderTester',
-				description: 'I wrote a tool to benchmark geocoders (google maps, nominatim, mimirsbrunn etc.',
+				description: 'I wrote a tool to benchmark geocoders (google maps, nominatim, mimirsbrunn etc).',
 				techStack: [
 					'axum', 'svelte', 'Postgresql'
 				],
@@ -121,8 +121,8 @@ export const experiences: Experience[] = [
 		]
 	},
 	{
-		start: '2015',
-		end: '2016',
+		start: '2017',
+		end: '2018',
 		position: 'Software Engineer Intern',
 		company: 'Decathlon',
 		logo: "Decathlon",
