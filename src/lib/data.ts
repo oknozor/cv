@@ -1,5 +1,8 @@
 import type { Education, Experience, OpenSourceProject } from '$lib/index';
 
+export const introduction =
+	'Senior backend engineer with 7+ years of experience building scalable, resilient, and high-performance systems. Strong focus on hexagonal architectures, Domain-Driven Design, and clean code principles. Proven track record working on high-load environments and distributed systems in production. Passionate about open source, I actively contribute to projects like Cocogitto and Onagre. My keen interest in tooling drives me to build solutions that enhance developer productivity and optimize CI/CD processes. I am looking for a tech-driven environment where software quality, product impact, and tooling innovation go hand in hand.';
+
 export const experiences: Experience[] = [
 	{
 		start: '2024',
