@@ -1,7 +1,7 @@
 import type { Education, Experience, OpenSourceProject } from '$lib/index';
 
 export const introduction =
-	"Ingénieur backend senior avec plus de 7 ans d'expérience dans la construction de systèmes scalables, résilients et performants. Fort accent mis sur les architectures hexagonales, le Domain-Driven Design et les principes de code propre. Expérience prouvée dans des environnements à forte charge et des systèmes distribués en production. Passionné par l'open source, je contribue activement à des projets comme Cocogitto et Onagre. Mon vif intérêt pour l'outillage me pousse à créer des solutions qui améliorent la productivité des développeurs et optimisent les processus CI/CD. Je recherche un environnement technologique où la qualité logicielle, l'impact produit et l'innovation en matière d'outillage vont de pair.";
+	"Ingénieur backend senior avec plus de 7 ans d'expérience dans la construction de systèmes scalables, résilients et performants. Fort accent mis sur les architectures hexagonales, le Domain-Driven Design et le Clean Code. Expérience prouvée dans des environnements à forte charge et des systèmes distribués en production. Passionné par l'open source, je contribue activement à des projets comme Cocogitto et Onagre. Mon vif intérêt pour l'outillage me pousse à créer des solutions qui améliorent la productivité des développeurs et optimisent les processus CI/CD. Je recherche un environnement technologique où la qualité logicielle, l'impact produit et l'innovation en matière d'outillage vont de pair.";
 
 export const experiences: Experience[] = [
 	{
